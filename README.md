@@ -1,1 +1,2 @@
 # Wireshark
+Wireshark's Packet Details pane offers excellent features for analyzing individual packets and network conversations, aiding in troubleshooting, network analysis, and security assessments. It provides a detailed view of each packet's content, including protocol information, hex dumps, and links to related packets, allowing users to drill down into specific data and identify anomalies. 
